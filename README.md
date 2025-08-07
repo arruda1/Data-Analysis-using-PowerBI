@@ -16,7 +16,7 @@ The dashboard focuses on analyzing product sales by product line, tracking key p
 
 ## 3. Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](images/dashboard-preview.png)
 
 ---
 
